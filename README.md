@@ -1,15 +1,17 @@
 # 👋 Hello! Welcome to my Github profile.
-Hi, my name is Yan and I'm passionate about web development. I have some experience with React, Typescript and Ruby on Rails. I enjoy learning new technologies and challenging myself to improve. I'm always looking for opportunities to improve my skills and contribute to interesting projects.
+Hi, my name is **Yan** and I'm passionate about web development. I have some experience with **React, Typescript and Ruby on Rails**. I enjoy learning new technologies and challenging myself to improve. I'm always looking for opportunities to improve my skills and contribute to interesting projects.
 
-## My name is Yan Batista.
+## More about me
 
 - 🔭 I’m currently working on a Ruby on Rails Project for Project Management
-- 🌱 I’m currently learning
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>    
-  Styled Components 💅🏻
-</div>
+- 🌱 I’m currently learning and using:
+<table>
+  <tr>
+    <td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/></td>
+    <td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/></td>
+    <td valign="middle">Styled Components💅🏻</td>
+  </tr>
+</table>
 
 ## Contact:
 
