@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on a Ruby on Rails Project for Project Management
 - 🌱 I’m currently learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>       
 
 ## Contatos:
 
@@ -13,6 +13,7 @@
   <a href="https://www.linkedin.com/in/yanbatista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## Github Stats
 <div>
   <a href="https://github.com/yan-batista">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-batista&layout=compact&langs_count=7&theme=dracula"/>
