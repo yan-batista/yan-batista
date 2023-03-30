@@ -1,4 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
+Hi, my name is Yan and I'm passionate about web development. I have some experience with React, Typescript and Ruby on Rails. I enjoy learning new technologies and challenging myself to improve. I'm always looking for opportunities to improve my skills and contribute to interesting projects.
+
 ## My name is Yan Batista.
 
 - 🔭 I’m currently working on a Ruby on Rails Project for Project Management
@@ -8,7 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>    
 </div>
 
-## Contatos:
+## Contact:
 
 <div>
   <a href = "mailto:bsouza.yan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
