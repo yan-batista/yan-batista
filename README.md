@@ -11,7 +11,7 @@ Hi, my name is **Yan** and I'm passionate about web development. I have some exp
     <td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/></td>
     <td valign="middle">Styled Components💅🏻</td>
     <td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="50" height="50" /></td>
-    <td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width="50" height="50" /></td>
+    <td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" width="50" height="50" /></td>
   </tr>
 </table>
 
