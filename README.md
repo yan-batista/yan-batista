@@ -1,5 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
+
 🚀 Desenvolvedor Web Full Stack | Freelancer
+
 📅 Since 2021
 
 ---
