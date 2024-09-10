@@ -12,7 +12,7 @@ Hi, my name is **Yan** and I'm passionate about web development. I am a full sta
 
 - 🌱 My current tech stack is
   
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
@@ -27,6 +27,6 @@ Hi, my name is **Yan** and I'm passionate about web development. I am a full sta
 ## Contact:
 
 <div>
-  <a href = "mailto:bsouza.yan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yanbatista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href = "mailto:bsouza.yan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/yanbatista/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
